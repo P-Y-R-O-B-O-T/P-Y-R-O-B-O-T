@@ -12,8 +12,7 @@ I am a seasoned developer with a passion for creating robust and innovative solu
 - **Networking:** Socket Programming, Network Programming 🌐
 - **Frontend:** PyQt 🖥️
 - **Databases:** MongoDB, MySQL 🗃️
-- **Data Science:** Data Analysis, Machine Learning 📊
-- **Augmented Reality:** AR Development 🕶️
+- **Data Science:** Data Analysis, Machine Learning, Argumented Learning 📊
 - **Payment Integration:** Expertise in integrating payment systems 💸
 - **Distributed Computing:** Experience in building distributed systems 🌐
 - **API Development:** Designing and building APIs 🚀
