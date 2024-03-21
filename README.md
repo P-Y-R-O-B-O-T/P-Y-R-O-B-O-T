@@ -6,7 +6,7 @@ I am a seasoned developer with a passion for creating robust and innovative solu
 
 - **Languages:** Python, C/C++, Bash 🐍
 - **Web Development:** Django, FastAPI, Flask 🌐
-- **DevOps:** Ansible, Docker, Kubernetes, Jenkins 🛠️
+- **DevOps:** Ansible, Docker, Kubernetes, GitHub Actions and Workflow 🛠️
 - **Web Servers:** Nginx 🚦
 - **Infrastructure:** Linux Administration 🐧
 - **Networking:** Socket Programming, Network Programming 🌐
