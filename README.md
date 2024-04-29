@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm P-Y-R-O-B-O-T 🚀
 
+![BEAUTIFUL](ZZZ/ZZZ.jpg)
+
 I am a seasoned developer with a passion for creating robust and innovative solutions. My expertise spans a wide range of technologies, from low-level programming to high-level frameworks. I thrive in dynamic environments and enjoy tackling challenging problems.
 
 ## Languages
@@ -57,19 +59,8 @@ I am a seasoned developer with a passion for creating robust and innovative solu
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🔧 Skills
-
-- **Languages:** Python, C/C++, Bash 🐍
-- **Web Development:** Django, FastAPI, Flask 🌐
-- **DevOps:** Ansible, Docker, Kubernetes, GitHub Actions and Workflow 🛠️
-- **Web Servers:** Nginx 🚦
-- **Infrastructure:** Linux Administration 🐧
-- **Networking:** Socket Programming, Network Programming 🌐
-- **Frontend:** PyQt 🖥️
-- **Databases:** MongoDB, MySQL 🗃️
-- **Data Science:** Data Analysis, Machine Learning 📊
-- **Payment Integration:** Expertise in integrating payment systems 💸
-- **Distributed Computing:** Experience in building distributed systems 🌐
-- **API Development:** Designing and building APIs 🚀
-
-![BEAUTIFUL](ZZZ/ZZZ.jpg)
+## More
+![](https://img.shields.io/badge/Socket%20Programming-red?style=for-the-badge)
+![](https://img.shields.io/badge/Socket%20Programming-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Distributed%20Computing%20Framework-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Mini%20Redis%20Implementation-purple?style=for-the-badge)
